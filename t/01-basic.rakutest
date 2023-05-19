@@ -1,0 +1,6 @@
+use Test;
+use Net::Postgres::Abstract;
+
+pass "replace me";
+
+done-testing;

@@ -1,0 +1,25 @@
+{
+  "auth": "zef:leont",
+  "authors": [
+    "Leon Timmermans"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "blah blah blah",
+  "license": "Artistic-2.0",
+  "name": "Net::Postgres::Abstract",
+  "perl": "6.d",
+  "provides": {
+    "Net::Postgres::Abstract": "lib/Net/Postgres/Abstract.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
