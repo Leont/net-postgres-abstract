@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "blah blah blah",
+  "description": "Abstractly and asynchronously querying your postgresql database",
   "license": "Artistic-2.0",
   "name": "Net::Postgres::Abstract",
   "perl": "6.d",
