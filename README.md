@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/Leont/net-postgres-abstract/actions/workflows/test.yml/badge.svg)](https://github.com/Leont/net-postgres-abstract/actions)
+
 NAME
 ====
 
