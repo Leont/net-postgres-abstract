@@ -6,6 +6,7 @@
   "build-depends": [
   ],
   "depends": [
+    "Net::Postgres:auth<zef:leont>"
   ],
   "description": "Abstractly and asynchronously querying your postgresql database",
   "license": "Artistic-2.0",
